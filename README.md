@@ -1,2 +1,5 @@
-# aula
-Esse projeto é um projeto de exemplo
+#Aprendendo github
+Faculdade de tecnologia Tatuí
+
+#Disciplina
+Linguagem de programação
